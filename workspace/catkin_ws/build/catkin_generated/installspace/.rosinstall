@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/mv/go_chase_it/workspace/catkin_ws/install/setup.sh
